@@ -1,0 +1,20 @@
+
+body { 
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    font-family: 'Rubik', sans-serif;
+    padding : 2px 1px;
+    
+
+}
+
+.Bighead {
+    text-align: center;
+    font-size: 50px;
+}
+
+.smallhead {
+    text-align: center;
+    font-size: 25px;
+}
